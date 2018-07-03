@@ -1,0 +1,8 @@
+Generic AVL tree implementation based on Julienne Walker's solution
+
+An ANSI implementation  top-down oriented
+
+TODO:
+* Wrap up more tests
+* Full valgrind memory check
+
